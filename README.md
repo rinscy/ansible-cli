@@ -13,7 +13,7 @@ docker run --rm -it \
 
 
 ## Note
-[Ansible] in version 2.2.
+[Ansible] in version 2.5.5
 Python3, pip3 also installed.
 
 [ansible]: <http://docs.ansible.com>
