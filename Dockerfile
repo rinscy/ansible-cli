@@ -2,7 +2,7 @@ FROM alpine:3.3
 MAINTAINER Saïd Bouras <said.bouras@gmail.com>
 
 ENV \
-    ANSIBLE_VERSION=2.5.5
+    ANSIBLE_VERSION=2.9
 
 RUN set -x \
     && echo "http://dl-4.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories \
